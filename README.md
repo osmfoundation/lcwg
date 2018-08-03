@@ -1,5 +1,4 @@
-# lcwg
-The Local Chapters Working Group Issue Tracker 
+# The Local Chapters Working Group Issue Tracker 
 
 One of the foundation Working Groups, the Local Chapters Working Group was responsible for running the process of setting up federated OSM-Foundation Local Chapters, but is now rebooted as communication channel for existing and future Local Chapters.
 
